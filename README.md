@@ -1,5 +1,7 @@
 # Skin-Cancer-Detection-A-Comparative-Analysis-of-SVM-and-CNN-on-Melanoma-Image-Classification
 
+(Done in a university setting as project part of a Machine Learning and Deep Learning class together with other three students.)
+
 Machine Learning is the most important branch of Artificial Intelligence and it’s the capacity of the machine to constantly improve its performance autonomously without the need for a human to explain and guide it through the tasks (Brynjolfsson&McAfee, 2017).
 Since the discovery of ML, several fields decided to implement it to improve efficiency, productivity, forecasting, and predictions. One of the sectors that is currently benefitting from technological innovation, and in particular machine learning, is healthcare, from research to personalized medicine to the diagnostic process.
 The innovation has in fact proven extremely effective in predicting different types of cancer, such as breast, brain, lung, liver, and prostate cancer (Zhang, Shi&Wang,2023).
