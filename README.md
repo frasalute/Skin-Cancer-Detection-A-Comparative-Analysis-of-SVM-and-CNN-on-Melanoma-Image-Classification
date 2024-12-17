@@ -1,4 +1,4 @@
-# Skin-Cancer-Detection-A-Comparative-Analysis-of-SVM-and-CNN-on-Melanoma-Image-Classification
+# Skin Cancer Detection A Comparative Analysis of SVM and CNN on Melanoma Image Classification
 
 (Done in a university setting as project part of a Machine Learning and Deep Learning class together with other three students.)
 
